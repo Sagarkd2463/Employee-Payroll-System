@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Employee Payroll System.iml" filepath="$PROJECT_DIR$/.idea/Employee Payroll System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payrollManagementSystem/payrollManagementSystem.iml" filepath="$PROJECT_DIR$/payrollManagementSystem/payrollManagementSystem.iml" />
+    </modules>
+  </component>
+</project>
